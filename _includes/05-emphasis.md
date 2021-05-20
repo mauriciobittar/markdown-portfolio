@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Barões da Pisadinha em itálico*
+_Barões da Pisadinha em itálico tamém_
+
+**Chora viola**
+__Chora viola tamém__
+
+_You **jura?** neem_
